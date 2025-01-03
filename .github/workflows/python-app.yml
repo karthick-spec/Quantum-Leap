@@ -1,8 +1,12 @@
 name: run main.py
 
 on:
+  push: # Trigger workflow on every new commit
+    branches:
+      - main # Replace with your branch name if different
   schedule:
     - cron: '0 0 * * 1' # At 00:00 on Monday
+  workflow_dispatch: # Allows manual triggering of the workflow
 
 jobs:
   build:
