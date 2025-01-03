@@ -9,7 +9,6 @@ import time
 from datetime import datetime
 from textblob import TextBlob  # For sentiment analysis
 
-app = Flask(__name__)
 
 # Initialize Firebase Admin SDK
 cred = credentials.Certificate('firebase.json')  # Replace with your Firebase service account key path
@@ -181,8 +180,3 @@ def watch_for_changes():
 
     ref_feedback = db.reference('/customer_feedback')
     ref_feedback.listen(listener)
-
-# Start the app
-if __name__ == '__main__':
-    watch_for_changes()
-    app.run(debug=True, host='0.0.0.0', port=5000)
