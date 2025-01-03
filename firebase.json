@@ -1,0 +1,22 @@
+{
+    "type": "service_account",
+    "project_id": "quatum-leap",
+    "private_key_id": "e04c58a748d7ea2f1f9821ed206d5bfe7617231c",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCcSFe9hqTxq0R9\nu++zK5NTAdMLAL4NT1Nt6FzMiJr/0R8SHg5OcVp1sf6kQ9NXlTsXNYMYi9noelK6\nBGqS2AyoVM9PxEczPHvN6MMZAOevHXgiZK1LLerFZG7B+ZoyDHetRmVY3PKA6GbK\nQNamkKC/XFH7oVwL6qqhkiuDj91lZrJT0OPkZKkK/RTWHtjZlRXal08GS5YeXEI+\ngoRagor8ftxdbmcL0rrc/U1jAKf+fHd23cYsmboGSJE/FQ3D6Ex7Ut3vqsf3NNHg\nYhMbU6Q61kG62MY3MsFWJ8hn9W32CC0zOAI+pI5z6FITQHoHJ7SAILJr6xE26kzt\nS58j8IvrAgMBAAECggEABzCQ0MhL+E4/xWUK/vwnN+9ijSQImkYm+WxyMHqsXs55\nFnVJhTRTzAxXQalZJLNZ15R/pnZwnPBbs/EWEhFca7YTH4FRITtMGsn1h8Xx4q2B\nZFurWUUQguo+6i+Yd2r5aoBNk0v+4A1RBUb8WQdYTdVqdCAVQvsVxH8b/15z+gEv\n/q9BCnl2g6Fr5qhp1fvOLcid0HpatzCEfvp6nLg1EE6U86qjaMO/1b0DDjOuTODu\nKKhTaKRigvx/04lz0K/EejhclRWi38R02gAXf15RCT+S6Eytger3Of0CiunQPcA7\nw6fmRnreg6m0x6Gf9EdUMkhZZdjhb5Ml3QLo70JXMQKBgQDcv61nyBXMnQ6tO3r5\ncjzFVLOkXMp/GfcjFmnGR9CckhI3dXYYM1K5oIz7dSnaJBcmYSKNcN4A4RQoAZ1K\nGvgSblZSL5xkhtT+knOMG6oeaHxybVmXlJWxZWgWZRv9D0vJOR4cYTR6HJsY5K1C\npDAM/ZWsz1h9O83x/enKBjicswKBgQC1PUF7HV58OEY9e4lsksOKYXsX2Mi8iwph\ng2AvfotmsBRm5tDnZIBLJnXbSxdghypjCR+pv+lOYisWR/kM7KVofzPWmhVavnZb\nzIkanbF4RfHeQeZHH48f/fl5IPY2RC4f47a69C5cTGojwZpMiX3wkIG1hqR4QxBY\ni0tAV27f6QKBgDyKvU43S/NAJ+RO6d07/XrJTjOH12mgf206GmxtCcPHNAPNzUO5\n37hVVhUo/v964nZ+MXHFQL3Q/SwztSW728mCRV5o/GV9rTDcjaAhfji0w1zGrMmr\n0JpEi5WIyXJQHaLkbWOvLStIaSkcnoAmc588dS5d95DxM/xofRQRPLmNAoGAHX5X\nbpqL6rkZrR2ycmm7yoQsjOfpWs1hphbEC1aThuV2nHxJWK6BNjmPCl3A8yNr4Wv1\nrCEf7XKKQnj57YGBNW0l2XF/siG2jx/M2/j3jXQMdTfSKpbXKsSg2XZkutYDj4r2\nDJx6AukoiKMT4gqp5QEPKqQ7lZqMSWx5lYHk+CkCgYAqMSQVx8dzqkDSn2jYqo9H\nSW1iCSO0DgVJhgr74oJFTfHTZrXygyrov/XHtnSwtPD6aQ50jMeJlcyzuaSI/7aB\nDhLq0+hXAxZB/o8Gwca5evZPJZuxuJXvtGtKU0Ispqn4eJbMAC/cbSVrRyxAolop\nCutDnA8+xSXKwLCzz0eP6Q==\n-----END PRIVATE KEY-----\n",
+    "client_email": "firebase-adminsdk-q8l7p@quatum-leap.iam.gserviceaccount.com",
+    "client_id": "108247382863741038472",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-q8l7p%40quatum-leap.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com",
+    "hosting": {
+      "public": "dist",
+      "ignore": [
+        "firebase.json",
+        "**/.*",
+        "**/node_modules/**"
+      ]
+    }
+  }
+  
